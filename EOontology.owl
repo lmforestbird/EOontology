@@ -1,0 +1,1706 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#"
+     xml:base="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#hasAchievementOf -->
+
+    <owl:ObjectProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#hasAchievementOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#hasApplicationFieldOf -->
+
+    <owl:ObjectProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#hasApplicationFieldOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isApplicantOf -->
+
+    <owl:ObjectProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isApplicantOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isBookAuthorOf -->
+
+    <owl:ObjectProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isBookAuthorOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isCorrespondingAuthorOf -->
+
+    <owl:ObjectProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isCorrespondingAuthorOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isDataOwnerOf -->
+
+    <owl:ObjectProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isDataOwnerOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isFirstAuthorOf -->
+
+    <owl:ObjectProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isFirstAuthorOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isInventorOf -->
+
+    <owl:ObjectProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isInventorOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isPartnerOf -->
+
+    <owl:ObjectProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isPartnerOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isPrincipalAccomplisherOf -->
+
+    <owl:ObjectProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isPrincipalAccomplisherOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#proposeMethodOf -->
+
+    <owl:ObjectProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#proposeMethodOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#useDatasetOf -->
+
+    <owl:ObjectProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#useDatasetOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#useMethodOf -->
+
+    <owl:ObjectProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#useMethodOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#CLC -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#CLC">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#DOI -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#DOI">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#GoogleScholarProfile -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#GoogleScholarProfile">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#IPC -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#IPC">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ISBN -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ISBN">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ISSN -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ISSN">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ORCIDID -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ORCIDID">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#SCADCSubjectCategories -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#SCADCSubjectCategories">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ScopusID -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ScopusID">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#WOSResearcherID -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#WOSResearcherID">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#achievementID -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#achievementID">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#address -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#address">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#affiliations -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#affiliations">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#applicant -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#applicant">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#applicationFieldID -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#applicationFieldID">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#applicationFieldTitle -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#applicationFieldTitle">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#applicationNumber -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#applicationNumber">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#articleTitle -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#articleTitle">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#author -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#author">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#bookTitle -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#bookTitle">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#chinesename -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#chinesename">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#copyrightOwner -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#copyrightOwner">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#correspondingAuthor -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#correspondingAuthor">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#country -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#country">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#coverageArea -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#coverageArea">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dataFormat -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dataFormat">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dataGrade -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dataGrade">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dataSize -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dataSize">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#datasetID -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#datasetID">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#datasetTitle -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#datasetTitle">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#datasetType -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#datasetType">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dateOfApplication -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dateOfApplication">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dateOfBirth -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dateOfBirth">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dateOfRegister -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dateOfRegister">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#degree -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#degree">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#description -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#description">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#download -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#download">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#educationalBackground -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#educationalBackground">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#englishName -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#englishName">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#firstCompletionUnit -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#firstCompletionUnit">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#foundedTime -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#foundedTime">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#founder -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#founder">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#gender -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#gender">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#inventor -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#inventor">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#journal -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#journal">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#keywords -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#keywords">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#majorClassDiscipline -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#majorClassDiscipline">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#methodID -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#methodID">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#methodName -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#methodName">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#minorClassDiscipline -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#minorClassDiscipline">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#operatingSystem -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#operatingSystem">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#patentTitle -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#patentTitle">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#principalAccomplisher -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#principalAccomplisher">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#programmingLanguage -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#programmingLanguage">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#provider -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#provider">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#publishedYear -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#publishedYear">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#publisher -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#publisher">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#registerNumber -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#registerNumber">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#registrationTitle -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#registrationTitle">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#researchAreas -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#researchAreas">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#researcherID -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#researcherID">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#satellite -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#satellite">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#sensor -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#sensor">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#softwareTitle -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#softwareTitle">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#spatialResolution -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#spatialResolution">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#timeSpan -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#timeSpan">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#version -->
+
+    <owl:DatatypeProperty rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#version">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Achievement -->
+
+    <owl:Class rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Achievement">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#hasApplicationFieldOf"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ApplicationField"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#description"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#achievementID"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ApplicationField -->
+
+    <owl:Class rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ApplicationField">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#SCADCSubjectCategories"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#majorClassDiscipline"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#minorClassDiscipline"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#applicationFieldID"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#applicationFieldTitle"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Article -->
+
+    <owl:Class rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Article">
+        <rdfs:subClassOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Achievement"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#CLC"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#SCADCSubjectCategories"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#author"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#correspondingAuthor"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#download"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#keywords"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#articleTitle"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#DOI"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ISSN"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#journal"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#publishedYear"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Book -->
+
+    <owl:Class rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Book">
+        <rdfs:subClassOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Achievement"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#CLC"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#SCADCSubjectCategories"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#author"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#download"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#publisher"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ISBN"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#bookTitle"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#publishedYear"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Dataset -->
+
+    <owl:Class rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Dataset">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#useMethodOf"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Method"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#datasetID"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#datasetTitle"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#datasetType"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Method -->
+
+    <owl:Class rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Method">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#hasAchievementOf"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Achievement"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#description"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#download"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#methodID"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#methodName"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Patent -->
+
+    <owl:Class rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Patent">
+        <rdfs:subClassOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Achievement"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#address"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#IPC"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#applicationNumber"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dateOfApplication"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#patentTitle"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#applicant"/>
+                <owl:minQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:minQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#inventor"/>
+                <owl:minQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:minQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Registration -->
+
+    <owl:Class rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Registration">
+        <rdfs:subClassOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Achievement"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#firstCompletionUnit"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#keywords"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#principalAccomplisher"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dateOfRegister"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#registerNumber"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#registrationTitle"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Researcher -->
+
+    <owl:Class rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Researcher">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isApplicantOf"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Patent"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isBookAuthorOf"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Book"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isCorrespondingAuthorOf"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ScientificDataset"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isDataOwnerOf"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ScientificDataset"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isFirstAuthorOf"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Article"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isInventorOf"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Patent"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isPartnerOf"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Researcher"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#isPrincipalAccomplisherOf"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Registration"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#proposeMethodOf"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ScriptMethod"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#proposeMethodOf"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#TheoreticalMethod"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#useDatasetOf"/>
+                <owl:someValuesFrom rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Dataset"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#affiliations"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#chinesename"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#educationalBackground"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#englishName"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#researchAreas"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#researcherID"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#GoogleScholarProfile"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ORCIDID"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ScopusID"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#WOSResearcherID"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#country"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dateOfBirth"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#degree"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#gender"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#SatelliteDataset -->
+
+    <owl:Class rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#SatelliteDataset">
+        <rdfs:subClassOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Dataset"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#coverageArea"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dataFormat"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dataGrade"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dataSize"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#download"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#provider"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#satellite"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#sensor"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#spatialResolution"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#timeSpan"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <owl:disjointWith rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ScientificDataset"/>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ScientificDataset -->
+
+    <owl:Class rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ScientificDataset">
+        <rdfs:subClassOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Dataset"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#copyrightOwner"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#correspondingAuthor"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#coverageArea"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dataFormat"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#dataSize"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#description"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#download"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#keywords"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#spatialResolution"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#timeSpan"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#DOI"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ScriptMethod -->
+
+    <owl:Class rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ScriptMethod">
+        <rdfs:subClassOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Method"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#keywords"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#programmingLanguage"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#SoftwareMethod -->
+
+    <owl:Class rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#SoftwareMethod">
+        <rdfs:subClassOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Method"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#operatingSystem"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#provider"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#version"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#SoftwareProduct -->
+
+    <owl:Class rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#SoftwareProduct">
+        <rdfs:subClassOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Achievement"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#download"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#operatingSystem"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#provider"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#version"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#softwareTitle"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#TheoreticalMethod -->
+
+    <owl:Class rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#TheoreticalMethod">
+        <rdfs:subClassOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Method"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#founder"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#keywords"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#foundedTime"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#A1 -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#A1">
+        <rdf:type rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Article"/>
+        <hasApplicationFieldOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#F1"/>
+        <DOI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1016/j.rse.2019.111510</DOI>
+        <achievementID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A1</achievementID>
+        <articleTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Annual maps of global artificial impervious area (GAIA) between 1985 and 2018</articleTitle>
+        <description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Artificial impervious areas are predominant indicators of human settlements. Timely, accurate, and frequent information on artificial impervious areas is critical to understanding the process of urbanization and land use/ cover change, as well as of their impacts on the environment and biodiversity. Despite their importance, there still lack annual maps of high-resolution Global Artificial Impervious Areas (GAIA) with longer than 30-year records, due to the high demand of high performance computation and the lack of effective mapping algorithms. In this paper, we mapped annual GAIA from 1985 to 2018 using the full archive of 30-m resolution Landsat images on the Google Earth Engine platform. With ancillary datasets, including the nighttime light data and the Sentinel-1 Synthetic Aperture Radar data, we improved the performance of our previously developed algorithm in arid areas. We evaluated the GAIA data for 1985, 1990, 1995, 2000, 2005, 2010, and 2015, and the mean overall accuracy is higher than 90%. A cross-product comparison indicates the GAIA data are the only dataset spanning over 30 years. The temporal trend in GAIA agrees well with other datasets at the local, regional, and global scales. Our results indicate that the GAIA reached 797,076 km2 in 2018, which is 1.5 times more than that in 1990. China and the United States (US) rank among the top two in artificial impervious area, accounting for approximately 50% of the world&apos;s total in 2018. The artificial impervious area of China surpassed that of the US in 2015. By 2018, the remaining eight among the top ten countries are India, Russia, Brazil, France, Italy, Germany, Japan, and Canada.</description>
+        <download rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.sciencedirect.com/science/article/pii/S0034425719305292</download>
+        <journal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Remote Sensing of Environment</journal>
+        <keywords rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Urbanization; Rural development; Landsat data; Human settlements; Google Earth</keywords>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#D1 -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#D1">
+        <rdf:type rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#SatelliteDataset"/>
+        <useMethodOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#M1"/>
+        <useMethodOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#M2"/>
+        <coverageArea rdf:datatype="http://www.w3.org/2001/XMLSchema#string">global</coverageArea>
+        <datasetID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D1</datasetID>
+        <datasetTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Landsat data</datasetTitle>
+        <datasetType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SatelliteDataset</datasetType>
+        <download rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://earthexplorer.usgs.gov/</download>
+        <provider rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USGS，United States Geological Survey</provider>
+        <satellite rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Landsat</satellite>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#D2 -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#D2">
+        <rdf:type rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#SatelliteDataset"/>
+        <useMethodOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#M1"/>
+        <useMethodOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#M2"/>
+        <coverageArea rdf:datatype="http://www.w3.org/2001/XMLSchema#string">global</coverageArea>
+        <datasetID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D2</datasetID>
+        <datasetTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMSP/OLS nighttime light (NTL) data</datasetTitle>
+        <datasetType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SatelliteDataset</datasetType>
+        <download rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.ngdc.noaa.gov/eog/dmsp/downloadV4composites.html</download>
+        <sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMSP/OLS</sensor>
+        <spatialResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1km</spatialResolution>
+        <timeSpan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1992—2013</timeSpan>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#D3 -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#D3">
+        <rdf:type rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#SatelliteDataset"/>
+        <useMethodOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#M1"/>
+        <useMethodOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#M2"/>
+        <coverageArea rdf:datatype="http://www.w3.org/2001/XMLSchema#string">global</coverageArea>
+        <datasetID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D3</datasetID>
+        <datasetTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sentinel-1 Synthetic Aperture Radar (SAR) data</datasetTitle>
+        <datasetType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SatelliteDataset</datasetType>
+        <download rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://scihub.copernicus.eu/dhus/#/home</download>
+        <provider rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ESA，European Space Agency</provider>
+        <satellite rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sentinel-1</satellite>
+        <sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RADAR</sensor>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#D4 -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#D4">
+        <rdf:type rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ScientificDataset"/>
+        <hasApplicationFieldOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#F1"/>
+        <copyrightOwner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tsinghua University</copyrightOwner>
+        <correspondingAuthor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gong, P</correspondingAuthor>
+        <coverageArea rdf:datatype="http://www.w3.org/2001/XMLSchema#string">global</coverageArea>
+        <dataFormat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TIF</dataFormat>
+        <datasetID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D4</datasetID>
+        <datasetTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Annual maps of global artificial impervious area (GAIA)</datasetTitle>
+        <datasetType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ScientificResearchDataset</datasetType>
+        <description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1) The spatial resolution is 30m. 
+(2) Name Pattern: GAIA_1985_2018_Latitude_Longitude.tif, where Latitude and Longitude are nearest integers for left upper. 
+(3) Only 8014 images with impervious areas are listed. Image name_ID and location can also be found in this shape file . 
+(4) The value in the map ranges from 0 to 34, indicating different years. Zero means non-impervious, values greater than zeros indicate impervious pixels.</description>
+        <download rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://data.ess.tsinghua.edu.cn/gaia.html</download>
+        <spatialResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30m</spatialResolution>
+        <timeSpan rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1985-2018</timeSpan>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#F1 -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#F1">
+        <rdf:type rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ApplicationField"/>
+        <applicationFieldID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F1</applicationFieldID>
+        <applicationFieldTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">全球城市化研究</applicationFieldTitle>
+        <researchAreas rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Environmental Sciences &amp; Ecology; Remote Sensing; Imaging Science &amp; Photographic Technology</researchAreas>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#M1 -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#M1">
+        <rdf:type rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#TheoreticalMethod"/>
+        <hasAchievementOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#A1"/>
+        <description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">It consists of two sub-components: exclusion and inclusion. The “exclusion” refers to as the masking process of non-settlement regions in advance, while the “inclusion” is for the actual processing of human settlement areas in the remaining regions. Supportive features that reflect the characteristics of urban environment, such as vegetation status and its annual dynamics, water content, surface reflectance, as well as collected training sample, are used in the above two processes.</description>
+        <download rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.researchgate.net/publication/307108090_An_exclusion-inclusion_framework_for_extracting_human_settlements_in_rapidly_developing_regions_of_China_from_Landsat_images</download>
+        <keywords rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mask;Similarity;Global scale;Human settlements</keywords>
+        <methodID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M1</methodID>
+        <methodName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Exclusion-Inclusion Framework</methodName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#M2 -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#M2">
+        <rdf:type rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#TheoreticalMethod"/>
+        <hasAchievementOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#A1"/>
+        <description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A temporal consistency check involves both temporal filtering and heuristic reasoning.</description>
+        <download rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.sciencedirect.com/science/article/abs/pii/S0034425715300377</download>
+        <methodID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M2</methodID>
+        <methodName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Temporal Consistency Check</methodName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#R1 -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#R1">
+        <rdf:type rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Researcher"/>
+        <isCorrespondingAuthorOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#D4"/>
+        <isFirstAuthorOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#A1"/>
+        <isPartnerOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#R2"/>
+        <proposeMethodOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#M1"/>
+        <proposeMethodOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#M2"/>
+        <useDatasetOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#D1"/>
+        <useDatasetOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#D2"/>
+        <useDatasetOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#D3"/>
+        <GoogleScholarProfile rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://scholar.google.com.hk/citations?user=x-G741IAAAAJ&amp;hl=zh-CN&amp;oi=ao</GoogleScholarProfile>
+        <ScopusID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7102704109</ScopusID>
+        <affiliations rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2002-2019 Tsinghua University, Beijing, China
+2001-2019 Ministry of Education China, Beijing, China
+1994-2019 University of California, Berkeley, Berkeley, United States</affiliations>
+        <chinesename rdf:datatype="http://www.w3.org/2001/XMLSchema#string">宫鹏</chinesename>
+        <country rdf:datatype="http://www.w3.org/2001/XMLSchema#string">China</country>
+        <dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1965</dateOfBirth>
+        <degree rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Doctor</degree>
+        <educationalBackground rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bachelor：Department of Geography, Nanjing University, China
+Master：Department of Geography, Nanjing University, China
+Doctor：Department of Geography, University of Waterloo, Canada</educationalBackground>
+        <englishName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gong Peng</englishName>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</gender>
+        <researchAreas rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Land Cover;Land Change Science;Urban Science;Climate and Health;Sustainability Science</researchAreas>
+        <researcherID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">R1</researcherID>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#R2 -->
+
+    <owl:NamedIndividual rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#R2">
+        <rdf:type rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Researcher"/>
+        <hasApplicationFieldOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#F1"/>
+        <useDatasetOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#D1"/>
+        <useDatasetOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#D2"/>
+        <useDatasetOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#D3"/>
+        <useMethodOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#M1"/>
+        <useMethodOf rdf:resource="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#M2"/>
+        <GoogleScholarProfile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://scholar.google.com.hk/citations?user=s7JT1nIAAAAJ&amp;hl=zh-CN&amp;oi=ao</GoogleScholarProfile>
+        <ScopusID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16416901100</ScopusID>
+        <affiliations rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2016-2020 Joint Center for Global Change Studies, Beijing, China
+2013-2020 Ministry of Education China, Beijing, China
+2012-2020 Tsinghua University, Beijing, China
+     2020 City University of Macau, Taipa, Macao
+2016-2019 Joint Center for Global Change Studies JCGCS, Beijing, China
+     2016 National Earth System Science Data Center, Beijing, China
+2005-2012 George Mason University, Fairfax Campus, Fairfax, United States
+     2011 George Masion University, Fairfax, United States
+     2003 Institute of Remote Sensing Application Chinese Academy of Sciences, Beijing, China</affiliations>
+        <chinesename rdf:datatype="http://www.w3.org/2001/XMLSchema#string">白玉琪</chinesename>
+        <country rdf:datatype="http://www.w3.org/2001/XMLSchema#string">China</country>
+        <dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1976</dateOfBirth>
+        <degree rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Doctor</degree>
+        <educationalBackground rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bachelor：China University of Geosciences, Computer Science, 1997.7
+Master：China University of Geosciences, Computer Science (GIS), M.S, 2000
+Doctor：Institute of Remote Sensing Applications, Chinese Academy of Sciences, Cartography and GIS, Ph.D., 2003</educationalBackground>
+        <englishName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bai, Yuqi</englishName>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</gender>
+        <researchAreas rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GIScience;Cyberinfrastructure;Big Data;Air Quality</researchAreas>
+        <researcherID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">R2</researcherID>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Article"/>
+            <rdf:Description rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Book"/>
+            <rdf:Description rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Patent"/>
+            <rdf:Description rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#Registration"/>
+            <rdf:Description rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#SoftwareProduct"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#ScriptMethod"/>
+            <rdf:Description rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#SoftwareMethod"/>
+            <rdf:Description rdf:about="https://github.com/Tsinghua-mLin/EOontology/raw/master/EOontology.owl#TheoreticalMethod"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
